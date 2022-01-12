@@ -1,0 +1,10 @@
+* {
+    font-family: "Courier New"
+}
+
+.head {
+    font-weight: bold;
+    color: rgb(228, 58, 6);
+    text-decoration: underline;
+
+}

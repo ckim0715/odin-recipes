@@ -1,0 +1,33 @@
+* {
+    font-family: "Courier New";
+
+}
+
+.head {
+    font-weight: bold;
+    
+}
+
+.head.one {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+
+.head.two {
+    font-size: 30px;
+
+}
+
+#jalapeno {
+    color: rgb(28, 165, 10);
+}
+
+#kimchi {
+    color: rgb(228, 58, 6);
+}
+
+#buffalowings {
+    color: rgb(243, 119, 2);
+}
